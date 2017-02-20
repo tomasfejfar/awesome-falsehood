@@ -14,6 +14,7 @@ A curated list of awesome falsehoods programmers believe in.
 - [Business](#business)
 - [Dates and Time](#dates-and-time)
 - [Emails](#emails)
+- [Engineering](#engineering)
 - [Geography](#geography)
 - [Human Identity](#human-identity)
 - [Multimedia](#multimedia)
@@ -117,6 +118,9 @@ RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-addr
 Provides intricate examples that are unsuspected valid emails according the
 RFC-822.
 
+## Engineering
+
+- [Falsehoods about cars developers believe in](https://github.com/driveto/falsehoods-about-cars) - Falsehoods about fuels, number of wheels and engines and generally about cars. 
 
 ## Geography
 
